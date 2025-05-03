@@ -5,6 +5,7 @@ C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\Stude
 C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.AssemblyInfoInputs.cache
 C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.AssemblyInfo.cs
 C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.sourcelink.json
 C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.dll
 C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\refint\StudentTestingApp.Core.dll
 C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.pdb

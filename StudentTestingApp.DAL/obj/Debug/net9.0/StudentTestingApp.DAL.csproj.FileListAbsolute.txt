@@ -8,6 +8,7 @@ C:\Users\kolos\student_testing_app\StudentTestingApp.DAL\obj\Debug\net9.0\Studen
 C:\Users\kolos\student_testing_app\StudentTestingApp.DAL\obj\Debug\net9.0\StudentTestingApp.DAL.AssemblyInfoInputs.cache
 C:\Users\kolos\student_testing_app\StudentTestingApp.DAL\obj\Debug\net9.0\StudentTestingApp.DAL.AssemblyInfo.cs
 C:\Users\kolos\student_testing_app\StudentTestingApp.DAL\obj\Debug\net9.0\StudentTestingApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kolos\student_testing_app\StudentTestingApp.DAL\obj\Debug\net9.0\StudentTestingApp.DAL.sourcelink.json
 C:\Users\kolos\student_testing_app\StudentTestingApp.DAL\obj\Debug\net9.0\StudentT.5DBB57CC.Up2Date
 C:\Users\kolos\student_testing_app\StudentTestingApp.DAL\obj\Debug\net9.0\StudentTestingApp.DAL.dll
 C:\Users\kolos\student_testing_app\StudentTestingApp.DAL\obj\Debug\net9.0\refint\StudentTestingApp.DAL.dll

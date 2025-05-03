@@ -10,6 +10,7 @@ C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\Studen
 C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.AssemblyInfoInputs.cache
 C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.AssemblyInfo.cs
 C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.sourcelink.json
 C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentT.9317BDBA.Up2Date
 C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.dll
 C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\refint\StudentTestingApp.BLL.dll
