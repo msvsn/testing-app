@@ -1,0 +1,17 @@
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\bin\Debug\net9.0\StudentTestingApp.BLL.deps.json
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\bin\Debug\net9.0\StudentTestingApp.BLL.dll
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\bin\Debug\net9.0\StudentTestingApp.BLL.pdb
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\bin\Debug\net9.0\StudentTestingApp.Core.dll
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\bin\Debug\net9.0\StudentTestingApp.DAL.dll
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\bin\Debug\net9.0\StudentTestingApp.Core.pdb
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\bin\Debug\net9.0\StudentTestingApp.DAL.pdb
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.csproj.AssemblyReference.cache
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.AssemblyInfoInputs.cache
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.AssemblyInfo.cs
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentT.9317BDBA.Up2Date
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.dll
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\refint\StudentTestingApp.BLL.dll
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\StudentTestingApp.BLL.pdb
+C:\Users\kolos\student_testing_app\StudentTestingApp.BLL\obj\Debug\net9.0\ref\StudentTestingApp.BLL.dll

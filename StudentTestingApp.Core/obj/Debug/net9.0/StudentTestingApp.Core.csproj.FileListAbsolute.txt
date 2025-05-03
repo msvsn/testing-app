@@ -1,0 +1,11 @@
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\bin\Debug\net9.0\StudentTestingApp.Core.deps.json
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\bin\Debug\net9.0\StudentTestingApp.Core.dll
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\bin\Debug\net9.0\StudentTestingApp.Core.pdb
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.AssemblyInfoInputs.cache
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.AssemblyInfo.cs
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.dll
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\refint\StudentTestingApp.Core.dll
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\StudentTestingApp.Core.pdb
+C:\Users\kolos\student_testing_app\StudentTestingApp.Core\obj\Debug\net9.0\ref\StudentTestingApp.Core.dll
